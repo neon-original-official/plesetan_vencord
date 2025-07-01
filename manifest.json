@@ -1,0 +1,6 @@
+{
+  "name": "PlesetanAutoCrypt",
+  "description": "Auto encode/decode messages using Plesetan logic",
+  "authors": ["Xeno Block"],
+  "version": "1.0.0"
+}
